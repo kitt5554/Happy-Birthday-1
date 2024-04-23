@@ -47,4 +47,10 @@ img{
 .qq{
  margin-top: 30px;
 }
+
+@media (max-width: 800px){
+    .a{
+        margin-top: -465px;
+    }
+}
  
